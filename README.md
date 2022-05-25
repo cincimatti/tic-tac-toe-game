@@ -15,7 +15,9 @@ It can be reached at https://cincimatti.github.io/tic-tac-toe-game/index.html fo
 
 UPDATES & ROADMAP:
 UPDATES: Some additional styling (CSS) was added to the game to improve user experiance.
-ROADMAPPED FEATURES: A reset button may be added at a later date or release.
+ROADMAPPED FEATURES: Two new features are on the roadmap for future development. 
+1.) A reset button allowing the game in play to be reset before completion.
+2.) A strike line that would render an html element through the winning row when it is determined by the board.
 
 OPERATING INSTRUCTIONS:
 The application is a game of tic-tac-toe. When the webapp opens a user/player clicks on a square to claim a board position. The next user is then prompted to take a turn to click on a square to claim a board position. The first user/player who gets three positions in a row (horizontal, vertical, diagonal) with their symbol wins the game. If a winner is determined it will be announced at the bottom of the board.
